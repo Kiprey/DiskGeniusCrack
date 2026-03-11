@@ -24,3 +24,7 @@ For users who need to crack it manually:
 ## From the maintainer
 
 This repository started as a fork, but the original source seems to have disappeared. At the request of other users, I began organizing this repository so it can be more useful for future users.
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=Kiprey/DiskGeniusCrack&type=Date)
